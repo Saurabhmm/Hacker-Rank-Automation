@@ -1,0 +1,5 @@
+// to run your code, type  (code submission) : 
+node hacker.js
+
+// to run finalmoderator.js (to set moderator):
+node finalmoderator.js --url=https://www.hackerrank.com --config=config.JSON
